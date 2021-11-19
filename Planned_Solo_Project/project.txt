@@ -1,2 +1,0 @@
-Project idea, using an object detection model, make a real time model that will play with the cat.
-using laser pointer on a raspberry pi and a motor to move said laser, keep the making the laser move away from detected cat in the image.
