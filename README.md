@@ -21,6 +21,11 @@ Do note not all projects are included(for example java/matlab/ML) samples weren'
 # Big-data:
 0:- An investigation of a possible correlation between student performance in portuguese language class and the student's socioeconomic status, using the programming language R.
 
+# Adv OOP C++:
+ex1:-
+ex2:-
+ex3:-
+
 # C++:
 ex2:- An implemention of the board game "Reversi" with a focus on object oriented programming.
 ex4:- A "hockey match" simulation using polymorphism(different roles for players - Forwards, Defensemen and golie), generic implementation of BST and using                 statistical function using the different types of players and their current stats.
