@@ -69,7 +69,7 @@ ex5:- Missing
 0:- MIPS simulator in C, implemented using some instructions from MIPS R4000 Microprocessor User's Manual.
 
 # App project:
-0:- Main project with done in collaboration. A phone application for ordering food from businesses, said businesses receive order and can choose to accept or deny it, the client is updated throughout the ordering and is informed when the order is ready, mostly done in React, mySQL and firebase.
+0:- Main project done in collaboration. A phone application for ordering food from businesses, said businesses receive order and can choose to accept or deny it, the client is updated throughout the ordering and is informed when the order is ready, mostly done in React, mySQL and firebase.
 
 # Android app project:
 0:- Found in another repository(Called EncChat in the repositories), is an encrypted chatting platform much like whatsapp for example, with the difference that it only requires a sign-up with an email, users can be found by browsing users list, or searching by usernames, chatting requires accepting friend requests, includes picture sharing.
