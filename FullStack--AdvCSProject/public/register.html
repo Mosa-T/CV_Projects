@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+      crossorigin="anonymous"
+    />
+    <link rel="shortcut icon" href="#" />
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Sign up</title>
+  </head>
+
+  <body>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
+            <div class="card my-5">
+              <div class="card-body">
+                <h5 class="card-title text-center">Sign Up</h5>
+                <!-- action="/register" method="POST" -->
+                <form class="form-signin"
+                
+                >
+                  <div class="m-4 ">
+                    <input
+                      type="email"
+                      name="email"
+                      id="inputEmail"
+                      class="form-control"
+                      placeholder="Email address"
+                      required
+                      autofocus
+                    />
+                    <!-- <label for="inputEmail">Email address</label> -->
+                  </div>
+
+                  <div class="m-4">
+                    <input
+                      type="password"
+                      name="password"
+                      id="inputPassword"
+                      class="form-control"
+                      placeholder="Password"
+                      required
+                    />
+                    <!-- <label for="inputPassword">Password</label> -->
+                  </div>
+
+                  <div class="m-4">
+                    <input
+                      type="password"
+                      name="rePassword"
+                      id="reInputPassword"
+                      class="form-control"
+                      placeholder="Reforge Password"
+                      required
+                    />
+                    <!-- <label for="ReinputPassword">Reforge Password</label> -->
+                  </div>
+
+                  <button
+                    id="register-btn"
+                    class="btn btn-lg btn-primary btn-block text-uppercase"
+                    type="button"
+                  >
+                    Register
+                  </button>
+                  
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      
+ <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          
+          <h4 class="modal-title" id="hModal2">Error</h4>
+        </div>
+        <div class="modal-body">
+          <p id="parModal">Passwords are not matching!</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+    </body>
+    <script>
+      // const express = require("express");
+      // const router = express.Router();
+      // var async  = require('express-async-await');
+      // var fetch = require('node-fetch');
+      // const btn= document.getElementById("register-btn");
+      // btn.addEventListener("click", () =>{
+      //   const email = $("inputEmail");
+      //   const pass = $("inputPassword");
+      //   const pass2 = $("reInputPassword");
+
+      //   console.log("EMAIL:",email,"\n PASS" ,pass, "\n PASS2:",pass2);
+        
+      //   fetch("/register",{
+      //     method:"POST",
+      //     headers:{
+      //       "Content-Type":"application/json",
+      //     },
+      //     body:JSON.parse({email:email, password:pass, rePassword:pass2})
+      //   }).then(response => {
+      //     return response.json();
+      //   }).then(responseJson => {
+      //     console.log("RESPONSE:", responseJson);
+      //   }).catch(error => {
+      //     console.log("ERRor", error);
+      //   });
+      //     });
+    </script>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+      integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+      integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+      crossorigin="anonymous"
+    ></script>
+    <script type ="text/javascript" src="./js/regist.js"></script>
+
+  </body>
+</html>
