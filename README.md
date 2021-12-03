@@ -4,13 +4,18 @@ Do note not all projects are included(for example java/matlab/ML) samples weren'
 
 # Adv Linux:
 1:- Implementing our own version of the command WC.
+
 2:- Missing.
+
 3:- Implementing our own shell (Bash-like) to serve us through the terminal.
+
 4:- Implementing peer-to-peer file sharing system,a stand-alone server serving unlimited number of clients that want to share(upload) or download shared files.
 
 # Assembly:
 1:- Implemention of a "To uppercase" program from user's terminal input.
+
 2:- Implemention of a program that extracts and displays the numbers from any input from the user.
+
 3:- Implemention of a program that takes input of two positive numbers and divides the smaller from the bigger number and displays the result, including the remainder.
 4:- Implemention of a program that checks input of email address names for their validity (check that '@' shows up once)
 5-7:- Missing.
@@ -22,13 +27,17 @@ Do note not all projects are included(for example java/matlab/ML) samples weren'
 0:- An investigation of a possible correlation between student performance in portuguese language class and the student's socioeconomic status, using the programming language R.
 
 # Adv OOP C++:
-ex1:-
+ex1:- 
+
 ex2:-
+ 
 ex3:-
 
 # C++:
 ex2:- An implemention of the board game "Reversi" with a focus on object oriented programming.
+
 ex4:- A "hockey match" simulation using polymorphism(different roles for players - Forwards, Defensemen and golie), generic implementation of BST and using                 statistical function using the different types of players and their current stats.
+
 ex5:- Simulation of multi-dimensional, includes generic implemention of generic coding of a sorting algorithms and numeric simulation that uses said algorithms
 
 # C:
@@ -36,7 +45,9 @@ ex5:- Simulation of multi-dimensional, includes generic implemention of generic 
 
 # Crypto with Python:
 1:- Decrypting given files that were encrypt using PRG-Blum blum shub.
+
 2:- Calculation of phi value of large numbers using euler function and more.
+
 3:- Implementation and use of Elliptic Curve based digital signature.
 
 # Deep-learning with python:
@@ -49,11 +60,13 @@ code mainly in html, css, javascript.
 
 # Intro to Systems Programming (In C): 
 ex3:- Implementation of a zoo management program, implementation of different BSTs to store objects(structs) and the management of them. food supply, employees and animals all separated and managed separately, each group has stats of their own that have status/stat check functions that are BST optimized.
+
 ex4:- basic functions to find VERTEX-COVER using Adjacency-matrix and linked-list.
+
 ex5:- Missing
 
 # Computer Architecture:
-0:- MIPS simulator in C, implemented using some instructions from MIPS R4000 Microprocessor User's Manual .
+0:- MIPS simulator in C, implemented using some instructions from MIPS R4000 Microprocessor User's Manual.
 
 # App project:
 0:- Main project with done in collaboration. A phone application for ordering food from businesses, said businesses receive order and can choose to accept or deny it, the client is updated throughout the ordering and is informed when the order is ready, mostly done in React, mySQL and firebase.
