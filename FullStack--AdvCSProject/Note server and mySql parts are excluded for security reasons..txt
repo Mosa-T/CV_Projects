@@ -1,1 +1,0 @@
-Note server and mySql parts are excluded for security reasons.
