@@ -77,9 +77,9 @@ ex5:- Missing
 "EncChat is an encrypted messaging app using RSA cryptosystem and compression of uploaded pictures."
 using Firebase for authentication, storing pictures, encrypted messages and push notification functions.
 
-# Unfinished project:
+# Unfinished project - Battleship_TERMINAL:
 A small project implementing an online board game of battleship.
 
-The two clients will connect to a server program that will be running on a raspberry pi, <in process of giving option to choose board size> after connecting to the server each player sets up their ships and start playing a classic battleship match, the server works as a reporter for each player, sending the coordinates of the attacking player's attack coordinates and to the attacked player, whether its a miss or a hit the attacked player will report back to the server which in return will report to the attacking player. the server works so every two players will make a thread that will manage their session.
+The two clients will connect to a server program that will be running on a raspberry pi, <in process of giving option to choose board size> after connecting to the server each player sets up their ships and start playing a classic battleship match, the server works as a messenger for each player, sending the coordinates of the attacking player's attack coordinates and to the attacked player, whether its a miss or a hit the attacked player will report back to the server, which in return, will report to the attacking player. the server works so every two players will make a thread that will manage their session.
  
- the game is implemented in a linux environment using c/c++, basic socket and thread mechanisms.
+ the game is implemented in a linux environment using c/c++, basic socket and thread mechanisms and can be ran by running three seperate terminals (two clients and one server).
