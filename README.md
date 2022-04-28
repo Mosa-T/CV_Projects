@@ -1,9 +1,9 @@
 # CV_Projects
 For the main projects please see:-                                                                                                    
-*Android app project (EncChat)                                                                                                      
-*React-native app project (EasyGet)                                                                                                    
-*Fullstack--AdvCSProject (Korkorwz)                                                                                                    
-*Deep-learning with python & Big Data
+-Android app project (EncChat)                                                                                                      
+-React-native app project (EasyGet)                                                                                                    
+-Fullstack--AdvCSProject (Korkorwz)                                                                                                    
+-Deep-learning with python & Big Data
 
 Some projects that were done throughout the course of studying computer science, includes small tasks.
 Do note not all projects are included(for example java/matlab/ML) samples weren't uploaded and that some of the projects are not representatives of the materials learnt throughout some courses.
