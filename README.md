@@ -1,4 +1,10 @@
 # CV_Projects
+For the main projects please see:-
+*Android app project(EncChat)
+*React-native app project(EasyGet)
+*Fullstack--AdvCSProject(Korkorwz)
+*Deep-learning with python & Big Data
+
 Some projects that were done throughout the course of studying computer science, includes small tasks.
 Do note not all projects are included(for example java/matlab/ML) samples weren't uploaded and that some of the projects are not representatives of the materials learnt throughout some courses.
 
@@ -54,7 +60,7 @@ ex5:- Simulation of multi-dimensional, includes generic implemention of generic 
 0:- A project pdf containing youtube video/presentation and analysis of results of a model that was trained to detect fire in images.
     heavily relying on Tensorflow tools and Google Colab to train and use the model to predict and report fire detections.
 
-# Fullstack--AdvCSProject:
+# Fullstack--AdvCSProject(Korkorwz):
 0:- A project website- basic idea is to allow users to sign-up to our website to order different types of services (technicians, plumber, mechanic and more), a   database(mySQL) was used to save tickets, types of users and their site premissions and more,The basics of it is that, bosses allocate worker users(with specific job titles) to the submitted customer tickets, workers who can look through the submitted tickets and choose to accept/deny and customers who submit tickets orders and can look at replies and updates on their tickets. Some parts are excluded for security reasons.
 code mainly in html, css, javascript.
 
@@ -68,10 +74,10 @@ ex5:- Missing
 # Computer Architecture:
 0:- MIPS simulator in C, implemented using some instructions from MIPS R4000 Microprocessor User's Manual.
 
-# App project:
+# React-native app project(EasyGet):
 0:- Main project done in collaboration. A phone application for ordering food from businesses, said businesses receive order and can choose to accept or deny it, the client is updated throughout the ordering and is informed when the order is ready, mostly done in React, mySQL and firebase.
 
-# Android app project:
+# Android app project(EncChat):
 0:- Found in another repository(Called EncChat in the repositories), is an encrypted chatting platform much like whatsapp for example, with the difference that it only requires a sign-up with an email, users can be found by browsing users list, or searching by usernames, chatting requires accepting friend requests, includes picture sharing.
 
 "EncChat is an encrypted messaging app using RSA cryptosystem and compression of uploaded pictures."
